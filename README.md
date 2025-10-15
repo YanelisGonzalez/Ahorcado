@@ -40,7 +40,7 @@ Ahorcado/
 
 ## 🛠️ Tecnologías
 
-1. Python 3.x
+1. Python 
 
 2. Terminal / Consola
 
