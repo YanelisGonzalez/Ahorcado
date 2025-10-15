@@ -44,7 +44,7 @@ Ahorcado/
 
 2. Terminal / Consola
 
-## 👤 Autor
+## 👤 Autora
 Yanelis González
 
 
